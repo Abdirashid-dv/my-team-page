@@ -6,7 +6,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://404-not-found-page-512e.vercel.app/">
+    <a href="https://my-team-page-abdirashid-dv.vercel.app/">
       Demo
     </a>
     <span> | </span>
@@ -29,7 +29,7 @@
 
 ## Overview
 
-![screenshot](screenshots/Screenshot%202023-03-18%20235307.png)
+![screenshot](Screenshots/Screenshot%202023-03-18%20235307.png)
 
 ### Built With
 
